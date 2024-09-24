@@ -1,3 +1,6 @@
+contract address:0xf6747a3e1bec59676070a9629d1f90fac66b66722a97e4ecc2cfe14c1c8fb638
+screenshot:![image](https://github.com/user-attachments/assets/78512786-bd0c-4eec-9c6a-26b85633b971)
+
 # Tokenized Governance Smart Contract
 
 ## Vision
